@@ -1,0 +1,8 @@
+{
+  "label": "Integration Guide",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "This section covers the practical usage of Express Utils' core features. Here, we'll explore how to integrate these features into your Express.js projects with TypeScript."
+  }
+}

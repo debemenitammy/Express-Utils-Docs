@@ -1,0 +1,8 @@
+{
+  "label": "Reference",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "This section provides a detailed reference for the functionalities offered by Express Utils. It covers the available decorators and their usage, along with explanations of the utility functions."
+  }
+}
